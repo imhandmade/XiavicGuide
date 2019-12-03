@@ -1,6 +1,6 @@
 # Welcome to the Xiavic Network!
 
-Minecraft Server IP: **hpk.party**
+Minecraft Server IP: **mc.xiav.icu**
 
 Discord: **http://discord.gg/HhBm5Ma**
 
